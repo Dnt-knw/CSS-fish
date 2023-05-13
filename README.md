@@ -4,7 +4,8 @@
 
 ## Description
 
-<ul>
-    <li>Floating underwater striped fish <br/></li>
-    <li>Stones, algae and the deep sea in the distance in the background <br/></li>
-</ul>
+- Floating underwater striped fish
+- The background contains
+    - Stones
+    - Algae
+    - Deep sea
