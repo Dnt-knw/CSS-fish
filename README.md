@@ -2,7 +2,9 @@
 
 > Fish animation using pure CSS
 
-### Description
+## Description
 
-    ◼️ Floating underwater striped fish 
-    ◼️ Stones, algae and the deep sea in the distance in the background
+<ul>
+    <li>Floating underwater striped fish <br/></li>
+    <li>Stones, algae and the deep sea in the distance in the background <br/></li>
+</ul>
