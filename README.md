@@ -4,7 +4,7 @@
 
 ## Description
 
-- Floating underwater striped fish
+- Swimming underwater striped fish
 - The background contains
     - Stones
     - Algae
