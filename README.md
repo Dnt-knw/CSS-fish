@@ -1,11 +1,15 @@
-# CSS-fish
+# CSS-fish 🐠
 
-> Fish animation using pure CSS
+> Fish animation using pure CSS 🙌
 
-## Description
+### See the <a href='https://dnt-knw.github.io/CSS-fish' target='_blank' title='Click to open the project'>Demo</a> 👁
 
-- Swimming underwater striped fish
-- The background contains
-    - Stones
-    - Algae
-    - Deep sea
+<img src='./CSS-fish.gif' alt='fish' />
+
+## Description 📖
+
+- 📜 Swimming underwater striped fish 🐠
+- 📜 The background contains
+    - Rocks 🗿
+    - Algae 🌿
+    - Deep sea 🌊
