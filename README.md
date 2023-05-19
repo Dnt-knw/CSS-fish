@@ -1,4 +1,4 @@
-# CSS-fish 🐠
+# CSS Fish 🐠
 
 > Fish animation using pure CSS 🙌
 
